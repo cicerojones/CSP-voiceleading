@@ -1,0 +1,9 @@
+* Using PWGL for Post-Tonal voice-leading work
+** Introduction
+This project features several files with the ~.pwgl~ file extension. Technically, these are all files that contain Lisp code, and so can be opened, examined (and ultimately versioned controlled) without using the PWGL application.
+
+However, the rewards for doing so are nil (haha, Lisp jokes). Because of the way PWGL uses CLOS to make a more useful-to-a-musician visual environment, you really want to play with them within PWGL itself.
+
+It is, nevertheless, useful to have plain text (or slightly marked up text) describing what's going on, independent of opening up and running the existing patches and examining the documentation within.
+** Reading and Reflecting
+Please [[file:Music-7710-essay.org][file:~/repos/CSP-voiceleading/Music-7710-essay.org]] for an essay occasioned by this first substantial project using PWGL.
